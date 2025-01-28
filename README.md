@@ -30,8 +30,6 @@ Despite being a perfectionist, I believe the best work comes from making room fo
 ---
 
 ## How to reach me:  
-- **Website:** [studentx.pt](https://www.studentx.pt)  
-- **GitHub:** [GameDevRafael](https://github.com/GameDevRafael)  
 - **LinkedIn:** [Rafael](https://www.linkedin.com/in/gamedevrafael)  
 
 Let’s create something incredible together. Dive into my repos below!  
