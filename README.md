@@ -3,9 +3,9 @@
 > Game Developer | 3D Modeler | Software Engineer with a passion for Java
 
 ## About Me
-Welcome to my creative space, where code meets imagination and passion for projects never stops growing! I'm a software engineer and 3D artist currently associated with **ISEL (Instituto Superior De Engenharia De Lisboa)**, specializing in Java, game mechanics, AI systems, and 3D modeling.
+Welcome to my creative space, where I store lots of projects ranging from creative areas to more logical focused environments. I'm a software engineer currently associated with **ISEL (Instituto Superior De Engenharia De Lisboa)**, specializing in Java, game mechanics, web development and 3D modeling.
 
-My projects revolve around things I love: game programming, 3D modeling, web development, and problem-solving with code. I focus on creating experiences that are both useful and fun, all while challenging myself to learn something new with every line of code.
+My projects revolve around things I love: game programming, 3D modeling, web development and problem-solving with code. I focus on creating experiences that are both useful and fun, all while challenging myself to learn something new with every line of code.
 
 ## 🚀 Featured Projects
 
@@ -54,11 +54,11 @@ An immersive journey through a 3D text world:
 * **Game Development:** Unity Integration, Physics Systems, AI Behaviors
 * **Programming:** Java, Object-Oriented Programming, Clean Code Practices
 * **3D Creation:** Blender, UV Mapping, PBR Texturing, Animation
-* **Web Development:** HTML, CSS, Responsive Design, GitHub Pages, Cloudflare
+* **Web Development:** HTML, CSS, JavaScript, Responsive Design, GitHub Pages, Cloudflare
 * **Version Control:** Git, GitHub
 
 ## 💬 Let's Talk About
-Whether it's Java, Blender, or exciting project ideas, I'm always up for a conversation about creating something awesome together! 
+Whether it's Java, Blender, Unity, or exciting project ideas, I'm always up for a conversation about creating something awesome together! 
 
 ## 📫 Connect With Me
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rgtdfaustino)
