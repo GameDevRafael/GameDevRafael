@@ -61,8 +61,7 @@ An immersive journey through a 3D text world:
 Whether it's Java, Blender, or exciting project ideas, I'm always up for a conversation about creating something awesome together! 
 
 ## 📫 Connect With Me
-* **GitHub:** @GameDevRafael
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gamedevrafael)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rgtdfaustino)
 
 ---
 > *"Despite being a perfectionist, I believe the best work comes from making room for imperfection and embracing the process."*
