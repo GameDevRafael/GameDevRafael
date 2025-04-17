@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there!
 
 > Game Developer | 3D Modeler | Software Engineer with a passion for Java
 
@@ -7,7 +7,7 @@ Welcome to my creative space, where I store lots of projects ranging from creati
 
 My projects revolve around things I love: game programming, 3D modeling, web development and problem-solving with code. I focus on creating experiences that are both useful and fun, all while challenging myself to learn something new with every line of code.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### EcoSim - Ecosystem Simulation
 A Java-based virtual ecosystem where code brings nature to life:
@@ -39,18 +39,18 @@ An immersive journey through a 3D text world:
 * Custom-baked textures for unique character identity
 * Professional rigging system
 
-## 🌱 Currently Learning
+## Currently Learning
 * Leveling up my **game programming** skills with Unity
 * Enhancing my **3D modeling and texturing** techniques in Blender
 * Exploring web development, from Cloudflare integration to responsive design
 
-## 💡 Things I'm Passionate About
+## Things I'm Passionate About
 * Creating immersive game experiences through code
 * Solving complex problems with elegant OOP solutions
 * Bringing 3D assets to life in virtual worlds
 * Building projects that combine technical excellence with creative vision
 
-## 🛠 Technical Skills
+## Technical Skills
 * **Game Development:** Unity Integration, Physics Systems, AI Behaviors
 * **Programming:** Java, Object-Oriented Programming, Clean Code Practices
 * **3D Creation:** Blender, UV Mapping, PBR Texturing, Animation
