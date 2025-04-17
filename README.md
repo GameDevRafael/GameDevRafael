@@ -57,10 +57,10 @@ An immersive journey through a 3D text world:
 * **Web Development:** HTML, CSS, JavaScript, Responsive Design, GitHub Pages, Cloudflare
 * **Version Control:** Git, GitHub
 
-## 💬 Let's Talk About
+## Let's Talk About
 Whether it's Java, Blender, Unity, or exciting project ideas, I'm always up for a conversation about creating something awesome together! 
 
-## 📫 Connect With Me
+## Connect With Me
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rgtdfaustino)
 
 ---
