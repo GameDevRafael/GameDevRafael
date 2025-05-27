@@ -1,69 +1,47 @@
-# Hello there!
+# Hey, I’m Rafael
 
-> Game Developer | 3D Modeler | Software Engineer with a passion for Java
+I study Software & Multimedia Engineering at ISEL. Most of my free time goes into building games, learning how to do things better, or getting way too deep into projects I started "just to test an idea."
 
-## About Me
-Welcome to my creative space, where I store lots of projects ranging from creative areas to more logical focused environments. I'm a software engineer currently associated with **ISEL (Instituto Superior De Engenharia De Lisboa)**, specializing in Java, game mechanics, web development and 3D modeling.
+Right now, I’m focused on **game programming** with Unity. I also know my way around Java (one of my favorite languages), model game assets in **Blender**, build responsive websites (like the startup I co-founded, [StudentX](#studentx.pt)), and occasionally take on **freelance photo editing** when I want a break from code. 
 
-My projects revolve around things I love: game programming, 3D modeling, web development and problem-solving with code. I focus on creating experiences that are both useful and fun, all while challenging myself to learn something new with every line of code.
+## Game Dev
 
-## Featured Projects
+My projects are done with the purpose of learning more and having fun while doing so, lately I've been developing a horror game that I plan into adding on Play Store.
 
-### EcoSim - Ecosystem Simulation
-A Java-based virtual ecosystem where code brings nature to life:
-* Genetic mutation systems that evolve entities over time
-* Dynamic seasonal changes affecting ecosystem balance
-* Interactive controls letting you become part of the simulation
-* Fractal-based tree generation for natural environments
-* Physics-based movement & particle systems
-**Tech Stack:** Java, PApplet Library
+- **EcoSim**: A Java-based ecosystem sim with genetic mutations, seasons, physics-based movement and fractal tree generation.
+- **RPG Adventure**: A fully playable text-based RPG in a 3D coordinate space (yes, really, I started by learning simple with Java).
+- **Horror Co-op Puzzle Game for Android**: A Unity project inspired by *Granny*, but with body-swapping mechanics and local multiplayer design.
 
-### RPG Text-Based Adventure
-An immersive journey through a 3D text world:
-* Navigate through a unique 5x5x2 coordinate system
-* Encounter NPCs and engage in strategic combat
-* Discover items and unravel scripted events
-* Experience clean code architecture in action
-**Tech Stack:** Java, Object-Oriented Programming
+## 3D Modeling
 
-### 3D Creations
-#### Abandoned Wooden House
-* Game-ready asset with optimized performance
-* Full PBR texture suite for realistic rendering
-* Unity-ready for seamless integration
-* Clean topology perfect for game environments
+- Modeled and textured a detailed **abandoned wooden house** for Unity.
+- Designed a **rigged humanoid character** with sculpted detail, custom textures and full animation cycles.
+- Always improving topology, baking and PBR workflows.
 
-#### Animated Humanoid Character
-* Complete animation sets bringing characters to life
-* Optimized for game performance
-* Custom-baked textures for unique character identity
-* Professional rigging system
+## Skills
 
-## Currently Learning
-* Leveling up my **game programming** skills with Unity
-* Enhancing my **3D modeling and texturing** techniques in Blender
-* Exploring web development, from Cloudflare integration to responsive design
+**Languages & Tools**:  
+Java, C#, Unity, Blender, HTML/CSS, JavaScript, Git, GitHub
 
-## Things I'm Passionate About
-* Creating immersive game experiences through code
-* Solving complex problems with elegant OOP solutions
-* Bringing 3D assets to life in virtual worlds
-* Building projects that combine technical excellence with creative vision
+**Concepts**:  
+Object-Oriented Programming, Game Physics, Responsive Design, AI Behaviors, Clean&Optimized Code
 
-## Technical Skills
-* **Game Development:** Unity Integration, Physics Systems, AI Behaviors
-* **Programming:** Java, Object-Oriented Programming, Clean Code Practices
-* **3D Creation:** Blender, UV Mapping, PBR Texturing, Animation
-* **Web Development:** HTML, CSS, JavaScript, Responsive Design, GitHub Pages, Cloudflare
-* **Version Control:** Git, GitHub
+## Side Projects
 
-## Let's Talk About
-Whether it's Java, Blender, Unity, or exciting project ideas, I'm always up for a conversation about creating something awesome together! 
+- **StudentX** – A platform made by 3 students (me + 2 friends) to connect other students to real opportunities. It went from a fun idea to a serious project after we entered TecStorm 2025 (a big hackathon in Portugal). Still improving it today.
+- **Game Jams** – I’ve participated in a few and I love how they force you to build fast.
 
-## Connect With Me
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rgtdfaustino)
+## What I'm Working On
+
+- Getting better at Unity
+- Improving my Blender workflow
+- Launching StudentX with my team
+- Not rewriting the same code to make it prettier three times in one week. Maybe.
 
 ---
-> *"Despite being a perfectionist, I believe the best work comes from making room for imperfection and embracing the process."*
 
-Let's create something incredible together. Dive into my repos below! 🚀
+> *“Despite being a perfectionist, I believe the best work comes from making room for imperfection and embracing the process.”*
+
+Let’s build something. Or break it and figure out why it broke.
+
+[LinkedIn](https://www.linkedin.com/in/rgtdfaustino)
